@@ -5,7 +5,7 @@ import glob
 list_path = glob.glob('./*.csv');
 
 for path in list_path:
-    with open(path, mode='r', newline='', encoding='shift_jis') as f:
+    with open(path, mode='r', newline='', encoding='cp932') as f:
         csv_reader = csv.reader(f)
         read_data = [row for row in csv_reader]
 

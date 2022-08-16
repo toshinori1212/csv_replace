@@ -1,4 +1,4 @@
-('C:\\Users\\u36c4\\OneDrive\\デスクトップ\\build\\test_utf8\\PYZ-00.pyz',
+('C:\\Users\\u36c4\\OneDrive\\デスクトップ\\csv_replace\\csv_replace\\test_utf8\\build\\test_utf8\\PYZ-00.pyz',
  [('multiprocessing.popen_spawn_posix',
    'C:\\Users\\u36c4\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_posix.py',
    'PYMODULE'),
